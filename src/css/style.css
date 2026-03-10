@@ -1,0 +1,12 @@
+body{
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#app {
+    width: auto;
+    height: 400px;
+    color: #fff;
+    display: block;
+}
