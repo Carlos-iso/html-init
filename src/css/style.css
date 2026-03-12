@@ -10,3 +10,7 @@ body{
     color: #fff;
     display: block;
 }
+#img01 {
+    width: auto;
+    height: 400px;
+}
